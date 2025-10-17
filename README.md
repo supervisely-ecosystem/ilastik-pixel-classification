@@ -12,7 +12,7 @@
 </p>
 
   
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](../../../../supervisely-ecosystem/ilastik-pixel-classification)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/ilastik-pixel-classification)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/ilastik-pixel-classification)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/ilastik-pixel-classification.png)](https://supervisely.com)
@@ -31,7 +31,7 @@ Most operations are interactive, even on large datasets: you just draw the label
 No machine learning expertise is required.
 
 ## How To Run 
-**Step 1**: Add app to your team from [Ecosystem](../../../../supervisely-ecosystem/ilastik-pixel-classification) if it is not there.
+**Step 1**: Add app to your team from [Ecosystem](https://ecosystem.supervisely.com/apps/ilastik-pixel-classification) if it is not there.
 
 **Step 2**: Open images project click on `Apps` tab and run `ilastik pixel classification` app.
 
