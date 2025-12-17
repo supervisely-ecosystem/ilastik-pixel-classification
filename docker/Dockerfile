@@ -21,3 +21,5 @@ RUN unzip /ilastik-1.4.0b14-Linux.zip -d /ilastik-build
 #RUN wget  https://files.ilastik.org/ilastik-1.3.3post3-Linux.tar.bz2 -O /ilastik.tar.bz2
 #RUN mkdir ilastik-build
 #RUN tar -xf /ilastik.tar.bz2 -C /ilastik-build
+
+LABEL python_sdk_version="6.73.486"
